@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 16, 2024, 2:25:21 PM
+    Author     : nzaharans
+*/
+.center {text-align: center; color: black;}
+.large {font-size: 150%;}
+body{
+    background-image:url("images/sky.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+table, th, tr {
+    border: 1px solid black;
+}
